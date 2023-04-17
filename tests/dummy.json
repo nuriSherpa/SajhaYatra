@@ -1,0 +1,11 @@
+[
+    {
+      "username": "user1",
+      "email": "1@gmail.com",
+      "phoneNumber":"9826069367",
+      "password": "password1",
+      "otp": "123456",
+      "profilePicture": "https://example.com/user1.jpg"
+    }
+]
+  
